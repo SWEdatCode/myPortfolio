@@ -4,8 +4,7 @@
 Hi, I'm a passionate Web Developer 
 with a keen interest in Data Analytics. 
 I have experience in a variety of domains like 
-Retail, Logistics, Data analysis and Systems 
-Architectural Designs. I love science and problem 
+Retail, Logistics, Data analysis and Cloud Computing. I love science and problem 
 solving. I am pursuing my dream of becoming a full-time
 programmer. 
 
