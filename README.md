@@ -1,7 +1,7 @@
 # myPortfolio
 
 # 💫About Me :
-Hi, I'm a passionate web developer 
+Hi, I'm a passionate Web Developer 
 with a keen interest in Data Analytics. 
 I have experience in a variety of domains like 
 Retail, Logistics, Data analysis and Systems 
