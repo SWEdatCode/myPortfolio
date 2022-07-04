@@ -3,10 +3,8 @@
 # 💫About Me :
 Hi, I'm a passionate Web Developer 
 with a keen interest in Data Analytics. 
-I have experience in a variety of domains like 
-Retail, Logistics, Data analysis and Cloud Computing. I love science and problem 
-solving. I am pursuing my dream of becoming a full-time
-programmer. 
+I have experience in a variety of domains like Web development,Data analysis and Cloud Computing. I love exploring science tools and problem 
+solving techniques. I am pursuing my Computer Science masters from the university of Bath. 
 
 
 # 💻Tech Stack
